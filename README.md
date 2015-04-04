@@ -29,11 +29,11 @@ To see the examples, first build the project as described
 
 ### Hello World Example
 
-This example consists of three basic pieces - a component, a decorator and a
+This example consists of three basic pieces - a component, a decorator, and a
 service.  They are all constructed via injection. For more information see the
 comments in the source `modules/examples/src/hello_world/index.js`.
 
-You can build this example as either JS or Dart app:
+You can build this example as either a JS or a Dart app:
 
 * JS:
   * `$(npm bin)/gulp build.js.dev`, and
