@@ -18,7 +18,7 @@ Follow the instructions given on the [Angular download page][download].
 
 ## Want to help?
 
-Want to file a bug, or contribute some code or improve documentation?  Excellent! Read up on our
+Want to file a bug, contribute some code, or improve documentation?  Excellent! Read up on our
 guidelines for [contributing][contributing].
 
 
